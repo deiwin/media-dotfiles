@@ -1,0 +1,7 @@
+*
+!/.config
+!/.config/mopidy
+!/.config/mopidy/mopidy.conf
+!/.config/systemd
+!/.config/systemd/user
+!/.config/systemd/user/mopidy.service

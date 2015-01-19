@@ -5,3 +5,5 @@
 !/.config/systemd
 !/.config/systemd/user
 !/.config/systemd/user/mopidy.service
+!/.gitignore.d
+!/.gitignore.d/media

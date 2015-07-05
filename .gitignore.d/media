@@ -13,3 +13,5 @@
 !/.config/systemd/user/mopidy.service
 !/.gitignore.d
 !/.gitignore.d/media
+!/.ncmpcpp
+!/.ncmpcpp/config

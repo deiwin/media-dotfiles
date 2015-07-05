@@ -2,8 +2,16 @@
 !/.config
 !/.config/mopidy
 !/.config/mopidy/mopidy.conf
+!/.config/mpd
+!/.config/mpd/mpd.conf
+!/.config/mpd/playlists
+!/.config/mpd/playlists/.gitignore
+!/.config/mpv
+!/.config/mpv/mpv.conf
 !/.config/systemd
 !/.config/systemd/user
 !/.config/systemd/user/mopidy.service
 !/.gitignore.d
 !/.gitignore.d/media
+!/.ncmpcpp
+!/.ncmpcpp/config
